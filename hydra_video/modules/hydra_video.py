@@ -1,3 +1,9 @@
+# This implementation of Hydra Video is an adaptation of the official Hydra implementation:
+# https://github.com/goombalab/hydra
+#
+# Elements needed for autoregressive generation were adapted from the Mamba v2 implementation:
+# https://github.com/state-spaces/mamba/tree/main
+
 import math
 import torch
 import torch.nn as nn

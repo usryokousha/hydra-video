@@ -1,3 +1,6 @@
+# Code is based on MAGVIT repository and MAGVITv2 paper
+# Much of the code is a direct translation from Jax to Pytorch
+
 import math
 
 import torch
